@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+pyttsx3
+scikit-learn
+openai
+Pillow
+pyinstaller
+pywin32
+matplotlib
